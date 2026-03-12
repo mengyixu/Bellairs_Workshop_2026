@@ -10,7 +10,7 @@ Neuronify is an educational neural network app. It allows you to create and expl
 
 When it is connected to a neuron, it delivers a constant electrical current into the cell. The strength of the current can be adjusted.
 
-### excitatory neuron
+### Excitatory neuron
 ![alt text](https://github.com/mengyixu/Bellairs_Workshop_2026/blob/main/example/elements_from_neuronify/excitatory_neuron.png "excitatory neuron")
 
 An excitatory neuron is a cell that **_increases_** the chance that the next cell will send a signal. 
@@ -18,7 +18,7 @@ An excitatory neuron is a cell that **_increases_** the chance that the next cel
 It acts like a **_green light_**, encouraging the next neuron to “fire” or pass the message along.
 
 
-### inhibitory neuron
+### Inhibitory neuron
 ![alt text](https://github.com/mengyixu/Bellairs_Workshop_2026/blob/main/example/elements_from_neuronify/inhibitory_neuron.png "inhibitory neuron")
 
 An inhibitory neuron is a cell that **_decreases_** the chance that the next cell will send a signal.
